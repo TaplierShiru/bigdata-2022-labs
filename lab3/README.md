@@ -1,6 +1,8 @@
 # Lab 3. Gribanov Danil 6133.
 ## Streaming processing in Apache Flink
 
+All test passed!
+
 ## Exercise 1. RideCleansingExercise.
 ### Task
 Filter a data stream of taxi ride records to keep only within New York City. The resulting stream should be printed.
